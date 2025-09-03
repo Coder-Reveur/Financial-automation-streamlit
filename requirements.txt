@@ -1,0 +1,5 @@
+numpy==2.3.2
+openpyxl==3.1.5
+pandas==2.3.2
+pyexcelerate==0.13.0
+streamlit==1.46.1
